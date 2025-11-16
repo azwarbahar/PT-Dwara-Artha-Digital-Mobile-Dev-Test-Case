@@ -12,6 +12,11 @@ Users can create tickets, browse and filter lists, update statuses, view detaile
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |  <img src="screenshoot/home_light.jpg" width="200" />  | <img src="screenshoot/home_dark.jpg" width="200" /> |  <img src="screenshoot/form_light.jpg" width="200" />  | <img src="screenshoot/form_dark.jpg" width="200" /> |  <img src="screenshoot/detail_light.jpg" width="200" />  | <img src="screenshoot/detail_dark.jpg" width="200" /> |
 
+## DEMO
+| Video |
+| --- |
+| <video src="https://github.com/user-attachments/assets/e6382bcf-bd44-4dc6-9771-c3c79f808410" controls width="300"></video> |
+
 
 ---
 
