@@ -8,7 +8,7 @@ Users can create tickets, browse and filter lists, update statuses, view detaile
 ---
 
 ## 📸 Screenshots
-_Add screenshots here if available._
+
 
 ---
 
