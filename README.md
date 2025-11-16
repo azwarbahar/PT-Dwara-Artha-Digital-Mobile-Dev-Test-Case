@@ -54,7 +54,7 @@ app/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourorg/myticket.git
+git clone https://github.com/azwarbahar/PT-Dwara-Artha-Digital-Mobile-Dev-Test-Case.git
 cd myticket
 ```
 ### 2️⃣ Open in Android Studio
