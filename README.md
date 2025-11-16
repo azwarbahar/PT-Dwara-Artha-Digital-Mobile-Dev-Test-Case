@@ -8,6 +8,9 @@ Users can create tickets, browse and filter lists, update statuses, view detaile
 ---
 
 ## 📸 Screenshots
+| HOME LIGHT | HOME DARK | FORM LIGHT | FORM DARK | DETAIL LIGHT | DETAIL DARK |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|  <img src="screenshoot/home_light.jpg" width="200" />  | <img src="screenshoot/home_dark.jpg" width="200" /> |  <img src="screenshoot/form_light.jpg" width="200" />  | <img src="screenshoot/form_dark.jpg" width="200" /> |  <img src="screenshoot/detail_light.jpg" width="200" />  | <img src="screenshoot/detail_dark.jpg" width="200" /> |
 
 
 ---
